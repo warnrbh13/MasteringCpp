@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\TheChernoCpp\VS\HelloWorld\Debug\HelloWorld.exe
+D:\repos\MasteringCpp\TheChernoCpp\VS\HelloWorld\Debug\HelloWorld.pdb

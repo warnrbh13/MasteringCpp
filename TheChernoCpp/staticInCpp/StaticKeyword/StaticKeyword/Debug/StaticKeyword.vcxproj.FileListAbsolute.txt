@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\TheChernoCpp\staticInCpp\StaticKeyword\StaticKeyword\Debug\StaticKeyword.exe
+D:\repos\MasteringCpp\TheChernoCpp\staticInCpp\StaticKeyword\StaticKeyword\Debug\StaticKeyword.pdb
