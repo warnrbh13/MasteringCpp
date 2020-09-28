@@ -1,0 +1,4 @@
+﻿  vectors.cpp
+D:\repos\MasteringCpp\TheChernoCpp\vectors\vectors\vectors.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+D:\repos\MasteringCpp\TheChernoCpp\vectors\vectors\vectors.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+  vectors.vcxproj -> D:\repos\MasteringCpp\TheChernoCpp\vectors\vectors\Debug\vectors.exe

@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\TheChernoCpp\namespaces\namespace\Debug\namespace.exe
+D:\repos\MasteringCpp\TheChernoCpp\namespaces\namespace\Debug\namespace.pdb

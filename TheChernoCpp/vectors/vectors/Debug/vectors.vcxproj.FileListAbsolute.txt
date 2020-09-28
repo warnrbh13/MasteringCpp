@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\TheChernoCpp\vectors\vectors\Debug\vectors.exe
+D:\repos\MasteringCpp\TheChernoCpp\vectors\vectors\Debug\vectors.pdb

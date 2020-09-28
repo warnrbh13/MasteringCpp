@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\TheChernoCpp\HeaderFiles\HeaderFiles\Debug\HeaderFiles.exe
+D:\repos\MasteringCpp\TheChernoCpp\HeaderFiles\HeaderFiles\Debug\HeaderFiles.pdb
