@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\cppForCprogrammers\week2\EnumOperatorOverload\EnumNdOverload\Debug\EnumNdOverload.exe
+D:\repos\MasteringCpp\cppForCprogrammers\week2\EnumOperatorOverload\EnumNdOverload\Debug\EnumNdOverload.pdb
