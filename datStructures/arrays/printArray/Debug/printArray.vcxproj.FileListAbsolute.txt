@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\datStructures\arrays\printArray\Debug\printArray.exe
+D:\repos\MasteringCpp\datStructures\arrays\printArray\Debug\printArray.pdb

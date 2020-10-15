@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\cppForCprogrammers\week2\FunctionVsMethod\FunctionVMethod\Debug\FunctionVMethod.exe
+D:\repos\MasteringCpp\cppForCprogrammers\week2\FunctionVsMethod\FunctionVMethod\Debug\FunctionVMethod.pdb

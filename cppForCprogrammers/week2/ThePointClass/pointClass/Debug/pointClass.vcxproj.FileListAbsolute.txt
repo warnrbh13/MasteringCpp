@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\cppForCprogrammers\week2\ThePointClass\pointClass\Debug\pointClass.exe
+D:\repos\MasteringCpp\cppForCprogrammers\week2\ThePointClass\pointClass\Debug\pointClass.pdb
