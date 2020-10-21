@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\cppForCprogrammers\week3\Graphs\Graphs\Debug\Graphs.exe
+D:\repos\MasteringCpp\cppForCprogrammers\week3\Graphs\Graphs\Debug\Graphs.pdb

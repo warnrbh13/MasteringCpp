@@ -15,6 +15,7 @@ int main() {
 	std::cout << "My Vector example" << std::endl;
 
 	std::vector<Vertex> vertices;
+	std::vector<int> vectorTest;
 	vertices.push_back({ 1,2,3 });
 	vertices.push_back({ 4,5,6 });
 
@@ -27,7 +28,14 @@ int main() {
 	for (int i = 0; i < vertices.size(); ++i)
 		std::cout << vertices[i] << std::endl;
 
-
+	vectorTest.push_back(1);
+	vectorTest.push_back(1);
+	vectorTest.push_back(1);
+	vectorTest.push_back(1);
+	std::cout << "VectorTest size:" << vectorTest.size() << std::endl;
+	for (int i: vectorTest) {
+		std::cout << vectorTest[i] << std::endl;
+	}
 	std::cin.get();
 	return 0;
 }

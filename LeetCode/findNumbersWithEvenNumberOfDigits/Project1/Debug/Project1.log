@@ -1,0 +1,4 @@
+﻿  Solution.cpp
+D:\repos\MasteringCpp\LeetCode\findNumbersWithEvenNumberOfDigits\Project1\Solution.cpp(9,21): warning C4018: '<': signed/unsigned mismatch
+D:\repos\MasteringCpp\LeetCode\findNumbersWithEvenNumberOfDigits\Project1\Solution.cpp(6,11): warning C4101: 's': unreferenced local variable
+  Project1.vcxproj -> D:\repos\MasteringCpp\LeetCode\findNumbersWithEvenNumberOfDigits\Project1\Debug\Project1.exe
