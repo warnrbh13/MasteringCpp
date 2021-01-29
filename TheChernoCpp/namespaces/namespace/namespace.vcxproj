@@ -142,10 +142,12 @@
     <ClCompile Include="Human.cpp" />
     <ClCompile Include="Saiyan.cpp" />
     <ClCompile Include="namespaces.cpp" />
+    <ClCompile Include="Sniff.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Human.h" />
     <ClInclude Include="Saiyan.h" />
+    <ClInclude Include="Sniff.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

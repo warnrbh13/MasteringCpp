@@ -1,2 +1,4 @@
 ﻿  namespaces.cpp
-  namespace.vcxproj -> D:\repos\MasteringCpp\TheChernoCpp\namespaces\namespace\Debug\namespace.exe
+  Sniff.cpp
+D:\repos\MasteringCpp\TheChernoCpp\namespaces\namespace\Sniff.cpp(3,18): error C2653: 'Sniff': is not a class or namespace name
+  Generating Code...

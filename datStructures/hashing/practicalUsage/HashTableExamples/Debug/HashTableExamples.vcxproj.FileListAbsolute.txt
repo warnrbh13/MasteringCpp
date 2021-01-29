@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\datStructures\hashing\practicalUsage\HashTableExamples\Debug\HashTableExamples.exe
+D:\repos\MasteringCpp\datStructures\hashing\practicalUsage\HashTableExamples\Debug\HashTableExamples.pdb

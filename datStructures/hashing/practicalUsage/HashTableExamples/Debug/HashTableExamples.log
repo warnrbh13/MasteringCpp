@@ -1,0 +1,3 @@
+﻿  HashSet.cpp
+D:\repos\MasteringCpp\datStructures\hashing\practicalUsage\HashTableExamples\HashSet.cpp(18,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+  HashTableExamples.vcxproj -> D:\repos\MasteringCpp\datStructures\hashing\practicalUsage\HashTableExamples\Debug\HashTableExamples.exe

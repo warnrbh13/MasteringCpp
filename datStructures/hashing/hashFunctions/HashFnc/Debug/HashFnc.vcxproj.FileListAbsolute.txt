@@ -1,0 +1,2 @@
+D:\repos\MasteringCpp\datStructures\hashing\hashFunctions\HashFnc\Debug\HashFnc.exe
+D:\repos\MasteringCpp\datStructures\hashing\hashFunctions\HashFnc\Debug\HashFnc.pdb

@@ -1,2 +1,8 @@
 ﻿  Graphs.cpp
+D:\repos\MasteringCpp\cppForCprogrammers\week3\Graphs\Graphs\Graphs.cpp(15,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\repos\MasteringCpp\cppForCprogrammers\week3\Graphs\Graphs\Graphs.h(37): warning C4715: 'Graphs::is_connected': not all control paths return a value
   Graphs.vcxproj -> D:\repos\MasteringCpp\cppForCprogrammers\week3\Graphs\Graphs\Debug\Graphs.exe
